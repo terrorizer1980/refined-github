@@ -8,6 +8,13 @@ Our hope is that GitHub will notice and implement some of these much needed impr
 
 GitHub Enterprise is also supported. More info in the options.
 
+<details>
+	<summary><h1>Sup</h1> dude?</summary>
+	<h2>Not</h2> much
+</details>
+
+Some other content
+
 ## Install
 
 [link-chrome]: https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf 'Version published on Chrome Web Store'
